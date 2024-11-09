@@ -14,8 +14,9 @@
  "hide_custom": 0,
  "icon": "sell",
  "idx": 0,
+ "indicator_color": "",
  "is_hidden": 0,
- "label": "Selling",
+ "label": "Sales and Marketing",
  "links": [
   {
    "hidden": 0,
@@ -621,10 +622,10 @@
    "type": "Link"
   }
  ],
- "modified": "2023-07-04 14:35:58.204465",
+ "modified": "2024-11-09 11:48:59.492933",
  "modified_by": "Administrator",
  "module": "Selling",
- "name": "Selling",
+ "name": "Sales and Marketing",
  "number_cards": [],
  "owner": "Administrator",
  "parent_page": "",
@@ -676,5 +677,5 @@
    "type": "Dashboard"
   }
  ],
- "title": "Selling"
+ "title": "Sales and Marketing"
 }

@@ -196,13 +196,13 @@
    "type": "Link"
   }
  ],
- "modified": "2024-01-18 22:11:51.474477",
+ "modified": "2024-11-09 11:48:12.422688",
  "modified_by": "Administrator",
  "module": "Accounts",
  "name": "Receivables",
  "number_cards": [],
  "owner": "Administrator",
- "parent_page": "Accounting",
+ "parent_page": "Accounting & Finance",
  "public": 1,
  "quick_lists": [],
  "restrict_to_domain": "",

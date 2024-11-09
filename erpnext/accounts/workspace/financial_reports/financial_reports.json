@@ -260,13 +260,13 @@
    "type": "Link"
   }
  ],
- "modified": "2024-01-18 22:13:07.596844",
+ "modified": "2024-11-09 11:48:12.040184",
  "modified_by": "Administrator",
  "module": "Accounts",
  "name": "Financial Reports",
  "number_cards": [],
  "owner": "Administrator",
- "parent_page": "Accounting",
+ "parent_page": "Accounting & Finance",
  "public": 1,
  "quick_lists": [],
  "restrict_to_domain": "",

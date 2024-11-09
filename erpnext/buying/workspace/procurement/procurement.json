@@ -14,8 +14,9 @@
  "hide_custom": 0,
  "icon": "buying",
  "idx": 0,
+ "indicator_color": "",
  "is_hidden": 0,
- "label": "Buying",
+ "label": "Procurement",
  "links": [
   {
    "hidden": 0,
@@ -511,10 +512,10 @@
    "type": "Link"
   }
  ],
- "modified": "2023-07-04 14:43:30.387683",
+ "modified": "2024-11-09 11:48:30.294442",
  "modified_by": "Administrator",
  "module": "Buying",
- "name": "Buying",
+ "name": "Procurement",
  "number_cards": [],
  "owner": "Administrator",
  "parent_page": "",
@@ -571,5 +572,5 @@
    "type": "Dashboard"
   }
  ],
- "title": "Buying"
+ "title": "Procurement"
 }
